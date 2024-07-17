@@ -86,4 +86,9 @@ public class TelegramBotContent {
             *GANAMOSEL JUEGO.*
             Logramos vencer a la aspiradora.
             """;
+    public static final String VOLVER_START = """
+            *QUIERES VOLVER A JUGAR.*
+            Vuelve a comenzar quieres volver a ganarle al boot y hackear la computadora para que ssea tu asisitente
+            ¡¡¡¡¡¡eeeeeeehhhh!!!!!!.
+            """;
 }
